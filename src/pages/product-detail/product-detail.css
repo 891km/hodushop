@@ -31,14 +31,17 @@
   flex: 0 1 44%;
   min-width: 450px;
   max-width: 600px;
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   overflow: hidden;
 }
 
 .product-image-container .product-image {
   width: 100%;
-  aspect-ratio: 1;
+  height: 100%;
   object-fit: contain;
-  transform: scale(1.02);
 }
 
 .product-image-container .product-image-soldout {
@@ -317,6 +320,7 @@
 .product-tabs-content {
   margin: auto;
   min-height: 100px;
+  line-height: 1.6;
 }
 
 /* 상품 내용 끝 */
