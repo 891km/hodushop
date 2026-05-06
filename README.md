@@ -1,6 +1,6 @@
 # 호두샵 (Open Market Service)
 
-<a href="https://keemessle.github.io/open-market-service/" title="호두샵 프로젝트 페이지로 이동">
+<a href="https://891km.github.io/hodushop/" title="호두샵 프로젝트 페이지로 이동">
   <img alt="호두샵 썸네일" src="https://github.com/user-attachments/assets/12e3fd35-b6a6-4822-a2ed-d1eee870d155" />
 </a>
 
